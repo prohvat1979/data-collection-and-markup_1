@@ -2,7 +2,7 @@ import os
 import requests
 from dotenv import load_dotenv
 
-# Вставьте API ключ напрямую или через .env файл
+
 API_KEY = 'fsq3V3AFHzvqod5PVkb9j5ptfec29VfLTGG2XbHrQEGC8bI='
 
 
